@@ -1,4 +1,4 @@
-# Talleres computación visual
+# Talleres computaciÃ³n visual
 
 ## Integrantes
 

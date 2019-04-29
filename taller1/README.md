@@ -22,22 +22,14 @@ Complete la tabla:
 
 | Integrante 			               | 				github nick |
 |--------------------------------------|----------------------------|
-|Diego Alejandro Gomez Parra           | dieosiris23
-|Daniel Alejandro Escobar              | daryhez                    |
+|Diego Alejandro Gomez Parra           | dieosiris23                |
+|Daniel Alejandro Escobar Prieto       | daryhez                    |
 
 ## Discusión
 
-(describa brevemente las actividades realizadas y los resultados obtenidos)
-se ralizaron todos los puntos con respecto a la imagen 
-se imprimen varias imagenes la primera imagen original , luego la imagen pasada por escala de grises por promedio de los componentes R,G y B del pixel y el valor obtenido se estableció como valor de gris.
+Se ralizaron todos los puntos con respecto a la imagen.
+Se imprimen varias imagenes la primera imagen original , luego la imagen pasada por escala de grises por promedio de los componentes R, G y B del pixel y el valor obtenido se estableció como valor de gris.
 Posterior a eso, se calculó en un arreglo las ocurrencias de los grises, se calculó el tono de gris más repetido y se estableció como valor máximo, luego se mapearon todos los tonos de grises entre 0 y el valor máximo y se pintó el histograma dejando un pixel de por medio.
-se realiza la segmentacion de la imagen de los colores mas billantes con color verde exactamente los valores que esten entre 200 y 255
-por ultimo se realiza la convolucion de la imagen usando un kernel 
+Se realiza la segmentacion de la imagen de los colores mas billantes con color verde exactamente los valores que esten entre 200 y 255.
+Por ultimo se realiza la convolucion de la imagen usando un kernel .
 
-
-
-## Entrega
-
-* Hacer [fork](https://help.github.com/articles/fork-a-repo/) de la plantilla. Plazo: 28/4/19 a las 24h.
-* (todos los integrantes) Presentar el trabajo presencialmente en la siguiente sesión de taller.
-## en el taller esta todos los puntos con respecto a las imagenes
