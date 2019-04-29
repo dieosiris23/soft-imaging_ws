@@ -29,11 +29,12 @@ Complete la tabla:
 
 (describa brevemente las actividades realizadas y los resultados obtenidos)
 se ralizaron todos los puntos con respecto a la imagen 
-1) se imprimen varias imagenes la primera imagen original 
-luego la imagn pasada por escala de grises 
-luego se saca el histograma apartir de rgb y con este conjunto de datos
-se realiza la segmentacion de la imagen de los colores mas billantes con color verde
+se imprimen varias imagenes la primera imagen original , luego la imagen pasada por escala de grises por promedio de los componentes R,G y B del pixel y el valor obtenido se estableció como valor de gris.
+Posterior a eso, se calculó en un arreglo las ocurrencias de los grises, se calculó el tono de gris más repetido y se estableció como valor máximo, luego se mapearon todos los tonos de grises entre 0 y el valor máximo y se pintó el histograma dejando un pixel de por medio.
+se realiza la segmentacion de la imagen de los colores mas billantes con color verde exactamente los valores que esten entre 200 y 255
 por ultimo se realiza la convolucion de la imagen usando un kernel 
+
+
 
 ## Entrega
 
