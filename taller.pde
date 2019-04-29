@@ -82,24 +82,23 @@ float m = map(value, 0, 100, 0, width);
 ///############      CONVOLUTION                      ######################################
 
   img2.loadPixels();
-  // Create an opaque image of the same size as the original
+ 
   PImage edgeImg = createImage(img2.width, img2.height, RGB);
-  // Loop through every pixel in the image.
+ 
   for (int y = 1; y < img2.height-1; y++) { // Skip top and bottom edges
     for (int x = 1; x < img2.width-1; x++) { // Skip left and right edges
       float sum = 0; // Kernel sum for this pixel
       for (int ky = -1; ky <= 1; ky++) {
         for (int kx = -1; kx <= 1; kx++) {
-          // Calculate the adjacent pixel for this kernel point
+         
           int pos = (y + ky)*img2.width + (x + kx);
-          // Image is grayscale, red/green/blue are identical
+          
           float val = red(img2.pixels[pos]);
-          // Multiply adjacent pixels based on the kernel values
+          
           sum += kernel[ky+1][kx+1] * val;
         }
       }
-      // For this pixel in the new image, set the gray value
-      // based on the sum from the kernel
+     
       edgeImg.pixels[y*img2.width + x] = color(sum, sum, sum);
     }
   }
