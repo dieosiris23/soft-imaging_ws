@@ -20,7 +20,7 @@ Emplear dos [canvas](https://processing.org/reference/PGraphics.html), uno para 
 
 Complete la tabla:
 
-| Integrante 			               | 				github nick |
+| Integrante                            |                 github nick |
 |--------------------------------------|----------------------------|
 |Diego Alejandro Gomez Parra           | dieosiris23                |
 |Daniel Alejandro Escobar Prieto       | daryhez                    |
@@ -32,4 +32,4 @@ Se imprimen varias imagenes la primera imagen original , luego la imagen pasada 
 Posterior a eso, se calculó en un arreglo las ocurrencias de los grises, se calculó el tono de gris más repetido y se estableció como valor máximo, luego se mapearon todos los tonos de grises entre 0 y el valor máximo y se pintó el histograma dejando un pixel de por medio.
 Se realiza la segmentacion de la imagen de los colores mas billantes con color verde exactamente los valores que esten entre 200 y 255.
 Por ultimo se realiza la convolucion de la imagen usando un kernel .
-
+Se puede observar que cuando no se bloquea el frame rate, oscila entre los 30 y 40 fps, dependiendo de la máscara de convolución que se use. Cuando se bloquea el planeta gira a velocidad constante.
