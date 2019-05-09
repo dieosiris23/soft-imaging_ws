@@ -23,7 +23,7 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|Hermann Grid|Óptica|[MichaelBach - Hermann Grid](https://michaelbach.de/ot/lum-herGrid/index.html)|Cambiar tamaño de cuadrados y de lineas|N/A|
+|Hermann Grid|Ficticia (alucinación)|[MichaelBach - Hermann Grid](https://michaelbach.de/ot/lum-herGrid/index.html)|Cambiar tamaño de cuadrados y de lineas|N/A|
 |         |           |            |                                    |                             |
 |         |           |            |                                    |                             |
 |         |           |            |                                    |                             |
