@@ -24,11 +24,11 @@ Complete la tabla:
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
 |Hermann Grid|Ficticia (alucinación)|[MichaelBach - Hermann Grid](https://michaelbach.de/ot/lum-herGrid/index.html)|Cambiar tamaño de cuadrados y de lineas|N/A|
-|   cuadricula      |    (alucinación)       |           |       cambiar color de cuadros                   |               |
-|  Stepping_feet   |        motion perception  |  https://michaelbach.de/ot/mot-feetLin/index.html |         cambiar el tamaño de los rectangulos de fondo                       |                             |
-|    Stroboscopic_Artifacts|     ilusion de color  |https://michaelbach.de/ot/mot-strob/index.html    |cambia el color del circulo haciendo click derecho y para el circulo con click izquierdo                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+|Cuadricula|(alucinación)||Cambiar color de cuadros|N/A|
+|Stepping_feet|Motion perception|[MichaelBach - Stepping Feet](https://michaelbach.de/ot/mot-feetLin/index.html)|Cambiar el tamaño de los rectangulos de fondo|N/A|
+|Stroboscopic_Artifacts|ilusion de color|[MichaelBach - Stroboscopic Artifacts](https://michaelbach.de/ot/mot-strob/index.html)|Cambia el color del circulo haciendo click derecho y para el circulo con click izquierdo|N/A|
+||||||
+||||||
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar
 
