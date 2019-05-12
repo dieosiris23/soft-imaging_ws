@@ -1,6 +1,6 @@
 PGraphics pg;
 void setup(){
-   size(1000,700);
+   size(700,700);
    pg = createGraphics(700, 700);
 }
 
