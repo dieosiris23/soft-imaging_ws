@@ -34,7 +34,7 @@ Complete la tabla:
 
 Diego : Para las ilusiones Stepping_feet y Stroboscopic_Artifacts se tomo como referencia la pagina https://michaelbach.de/ot/index.html
 buscando imitar la accion de las imagenes pero para profundizar realmente como funcionan las ilusiones se utilizo paginas como https://en.wikipedia.org/wiki/Stepping_Feet_Illusion  
-Un posible tema para profundizar prodria ser camaras enfocado hacia los video juegos.
+Un posible tema para profundizar prodria ser camaras o 	Shaders.
 
 ## Entrega
 
