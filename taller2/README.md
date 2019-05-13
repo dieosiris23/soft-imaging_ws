@@ -32,9 +32,11 @@ Complete la tabla:
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar
 
-Diego : Para las ilusiones Stepping_feet y Stroboscopic_Artifacts se tomo como referencia la pagina https://michaelbach.de/ot/index.html
-buscando imitar la accion de las imagenes pero para profundizar realmente como funcionan las ilusiones se utilizo paginas como https://en.wikipedia.org/wiki/Stepping_Feet_Illusion  
-Un posible tema para profundizar prodria ser camaras o 	Shaders.
+Diego : Para las ilusiones Stepping_feet y Stroboscopic_Artifacts se tomo como referencia la pagina [Michael Bach](https://michaelbach.de/ot/index.html)
+buscando imitar la accion de las imagenes pero para profundizar realmente como funcionan las ilusiones se utilizo paginas como [Steeping Feet Ilusion](https://en.wikipedia.org/wiki/Stepping_Feet_Illusion).  
+Un posible tema para profundizar prodria ser camaras o Shaders.
+
+Daniel: Me llamó la atencion el la ilusión de Lilac Chaser, buscando engañar al cerebro al acerle creer que sesaparecen objetos. [Más Info](https://michaelbach.de/ot/col-lilacChaser/index.html)
 
 ## Entrega
 
