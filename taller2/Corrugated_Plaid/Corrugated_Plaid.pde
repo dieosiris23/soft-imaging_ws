@@ -74,9 +74,6 @@ void draw(){
   if (value == 0) {
     rect(100,0,75,250);
     rect(200,0,75,250);
-    value = 1;
-  } else {
-    value = 0;
   }
 }
 void mouseClicked() {
