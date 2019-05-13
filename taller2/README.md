@@ -24,7 +24,7 @@ Complete la tabla:
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
 |Hermann Grid|Ficticia (alucinación)|[MichaelBach - Hermann Grid](https://michaelbach.de/ot/lum-herGrid/index.html)|Cambiar tamaño de cuadrados y de lineas|N/A|
-|   cuadricula      |    (alucinación)       |    cambiar color de cuadros        |                                    |               |
+|   cuadricula      |    (alucinación)       |           |       cambiar color de cuadros                   |               |
 |  Stepping_feet   |        motion perception  |  https://michaelbach.de/ot/mot-feetLin/index.html |         cambiar el tamaño de los rectangulos de fondo                       |                             |
 |    Stroboscopic_Artifacts|     ilusion de color  |https://michaelbach.de/ot/mot-strob/index.html    |cambia el color del circulo haciendo click derecho y para el circulo con click izquierdo                                    |                             |
 |         |           |            |                                    |                             |
