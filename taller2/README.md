@@ -32,6 +32,10 @@ Complete la tabla:
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar
 
+Diego : Para las ilusiones Stepping_feet y Stroboscopic_Artifacts se tomo como referencia la pagina https://michaelbach.de/ot/index.html
+buscando imitar la accion de las imagenes pero para profundizar realmente como funcionan las ilusiones se utilizo paginas como https://en.wikipedia.org/wiki/Stepping_Feet_Illusion  
+Un posible tema para profundizar prodria ser camaras enfocado hacia los video juegos.
+
 ## Entrega
 
 * Hacer [fork](https://help.github.com/articles/fork-a-repo/) de la plantilla. Plazo: 12/5/19 a las 24h.
