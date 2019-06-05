@@ -25,11 +25,12 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+|Daniel Alejandro Escobar Prieto|daryhez|
+|Diego Alejandro Gomez Parra|dieosiris23|
 
 ## Discusión
 
-Describa los resultados obtenidos. En el caso de anti-aliasing describir las técnicas exploradas, citando las referencias.
+Para el proceso de rasterización se usaron coordenadas baricéntricas para conocer si un punto P, está a la izquierda o a la derecha de una linea dada. Para este caso de estudio, tenemos en particular 3 lineas rectas formando un triángulo, así que para cada una de las líneas se verificó que el punto P estuviera a la derecha de cada una de las líneas; en caso de que fuera así, significa que el punto está dentro del triángulo, por ende, se pinta.
 
 ## Entrega
 
