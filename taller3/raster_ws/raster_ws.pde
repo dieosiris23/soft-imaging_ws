@@ -106,6 +106,7 @@ void triangleRaster() {
       ((edge(i,j,0,1) >= 0 && edge(i,j,2,0) >= 0 && edge(i,j,1,2) >= 0) && !isClockwise) ||
       ((edge(i,j,0,1) < 0 && edge(i,j,2,0) < 0 && edge(i,j,1,2) < 0) && isClockwise)) 
       {
+        rectMode(CENTER);
         float barCoords[] = barycentric(i,j);
         int colors[] = new int[3];
         for(int k=0; k<3; k++) colors[k] = (int)(barCoords[k]*256); 
