@@ -37,6 +37,15 @@ void draw(){
   myScene.render();
 }
 
+void keyPressed(){
+  if (key == 'c') {
+    can = createCan(100, 200, 32);
+  } else if (key == 'b') {
+    can = createShape(BOX, 200);
+  }
+  canNode = new Node(myScene, can);
+}
+
 void mouseClicked(){
   myScene.cast();
 }
